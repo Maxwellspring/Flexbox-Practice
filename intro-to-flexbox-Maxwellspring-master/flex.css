@@ -36,6 +36,9 @@
   justify-content: space-around;
   padding-left: .25%;
   padding-right: .25%;
+  /* max-width: 820px; */
+  max-width: 820px;
+  margin: 0 auto;
 }
 
 [class^="box"] {
